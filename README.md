@@ -10,4 +10,4 @@
 ## Project Live Website
   The live website can be found on my github [here](https://kalvinn361.github.io/Bootcamp-Homework-2-/)
   
-  ![Screenshot](../../assets/Images/Website.png)
+  ![Screenshot](.assets/Images/Website.png)
