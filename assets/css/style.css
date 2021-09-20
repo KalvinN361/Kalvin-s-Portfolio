@@ -154,7 +154,7 @@ main {
   text-align: right;
   padding-right: 15px;
   border-right: 4px solid var(--dark);
-  font-size: vw;
+  font-size: 30px;
   line-height: 1.1;
 }
 
