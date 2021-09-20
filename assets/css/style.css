@@ -154,9 +154,14 @@ main {
   text-align: right;
   padding-right: 15px;
   border-right: 4px solid var(--dark);
+<<<<<<< HEAD
   font-size: 70px;
   line-height: 5;
   flex-wrap: wrap;
+=======
+  font-size: 30px;
+  line-height: 1.1;
+>>>>>>> 43cfef2992fffa372f5efb02af3ce77a87a8dd34
 }
 
 .page-section > div {
