@@ -92,7 +92,7 @@ main {
 /* Hero Content */
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("../../../Images/panda.jpg"), linear-gradient(90deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("../../Images/panda.jpg"), linear-gradient(90deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -215,23 +215,23 @@ main {
 /* Images*/
 
 .horiseon {
-  background-image: url("../../../Images/Hoiseon.png");
+  background-image: url("../../Images/Hoiseon.png");
 }
 
 .led-wall {
-  background-image: url("../../../Images/LED.jpg");
+  background-image: url("../../Images/LED.jpg");
 }
 
 .calc {
-  background-image: url("../../../Images/Calc.jpg");
+  background-image: url("../../Images/Calc.jpg");
 }
 
 .puzzels {
-  background-image: url("../../../Images/puzzels.jpg");
+  background-image: url("../../Images/puzzels.jpg");
 }
 
 .run-budy {
-  background-image: url("../../../Images/run.jpg");
+  background-image: url("../../Images/run.jpg");
 }
 
 /* Contact Section */
