@@ -4,8 +4,8 @@
 
 /* Site Core Colors + Style*/
 :root {
-  --primary: rgb(	173, 216, 230);
-  --secondary: rgb(	255, 255, 0);
+  --primary: rgb(173, 216, 230);
+  --secondary: rgb(255, 255, 0);
   --tertiary: rgb(0,0,139);
   --dark: rgba(28, 29, 33, 1);
   --light: rgba(238, 238, 247, 1);
@@ -131,7 +131,6 @@ main {
   display: inline;
 }
 
-/* Main Page Content */
 
 .page-wrapper {
   max-width: 85%;
