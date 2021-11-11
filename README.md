@@ -8,6 +8,6 @@
  Finally, I used media queries modify the site based on the type of device its being viewed on. 
 
 ## Project Live Website
-  The live website can be found on my github [here](https://kalvinn361.github.io/Bootcamp-Homework-2-/)
+  The live website can be found on my github [here](https://kalvinn361.github.io/Kalvin-s-Portfolio/)
   
 ![Final](https://user-images.githubusercontent.com/90406895/134042028-3701948d-f101-4578-8116-215187e5454b.png)
